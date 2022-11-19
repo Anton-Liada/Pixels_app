@@ -11,6 +11,7 @@ export const App = () => {
   const [activePixels, setActivePixels] = useState([]);
   const [isKeyPressed, setIsKeyPressed] = useState(false);
   const [isShowedActivePixels, setIsShowedActivePixels] = useState(false);
+  const [size, setSize] = useState('large');
 
   const handleButtonPress = ({ ctrlKey }) => {
     if (ctrlKey) {
