@@ -1,6 +1,6 @@
 # Pixels APP (test task solution)
 
-**Demo link: [DEMO]()**
+**Demo link: [DEMO](https://anton-liada.github.io/Pixels_app/)**
 
 ## Setup
 
