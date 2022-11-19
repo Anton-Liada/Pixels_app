@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pixels_app/static/css/main.02c68126.css",
+    "main.js": "/Pixels_app/static/js/main.b3bcab3c.js",
+    "index.html": "/Pixels_app/index.html",
+    "main.02c68126.css.map": "/Pixels_app/static/css/main.02c68126.css.map",
+    "main.b3bcab3c.js.map": "/Pixels_app/static/js/main.b3bcab3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02c68126.css",
+    "static/js/main.b3bcab3c.js"
+  ]
+}
